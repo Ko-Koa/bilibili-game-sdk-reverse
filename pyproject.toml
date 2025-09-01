@@ -1,0 +1,22 @@
+[project]
+name = "bili_game_sdk"
+version = "1.0.0"
+authors = [{ name = "KOKOA" }]
+description = "Blibili游戏登录sdk逆向"
+dependencies = [
+    "build",
+    "hatchling",
+    "loguru",
+    "pycryptodome",
+    "requests",
+    "getmac"
+]
+requires-python = ">=3.11"
+
+[build-system]
+requires = ['hatchling']
+build-backend = 'hatchling.build'
+
+#[project.scripts]
+#code-cli = "my_code_cli.__main__:main"
+

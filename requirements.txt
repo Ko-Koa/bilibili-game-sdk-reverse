@@ -1,0 +1,6 @@
+build
+hatchling
+loguru
+pycryptodome
+requests
+getmac
