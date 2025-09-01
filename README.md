@@ -41,7 +41,7 @@ pip install -e .
   "h5_paid_download": 1,
   "h5_paid_download_sign": "4bf66ef578488b4d179af531ca4badec",
   "access_key": "xxxxxx_sh",
-  "uid": 000000000,
+  "uid": 0,
   "game_open_id": null,
   "game_open_id_enable": false,
   "expires": 1759303442000,
